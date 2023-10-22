@@ -10,6 +10,8 @@ package ec.edu.espol.tareaaop;
  */
 public class Cilindro {
     private double radio; 
+    
+    public Cilindro() {}
 
     public Cilindro(double radio) {
         this.radio = radio;
@@ -18,5 +20,4 @@ public class Cilindro {
     public double getRadio() {
         return radio;
     }
-    
 }

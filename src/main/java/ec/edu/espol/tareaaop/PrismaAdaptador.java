@@ -11,8 +11,7 @@ package ec.edu.espol.tareaaop;
 public class PrismaAdaptador extends Cilindro{
     private TrianguloEquilateroPrisma prisma; 
 
-    public PrismaAdaptador(TrianguloEquilateroPrisma prisma, double radio) {
-        super(radio);
+    public PrismaAdaptador(TrianguloEquilateroPrisma prisma) {
         this.prisma = prisma;
     }
 
