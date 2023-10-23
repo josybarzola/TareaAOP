@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="adapter_design_pattern/src/main/java"/>
-	<classpathentry kind="src" path="singleton_design_pattern/src"/>
-	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
-	<classpathentry kind="output" path="adapter_design_pattern/target/classes"/>
-</classpath>
