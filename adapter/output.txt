@@ -1,0 +1,3 @@
+El Cilindro de radio 5.0 cm cabe dentro del Hoyo de 5.0
+El Circulo circunscrito de radio 1.15 cm cabe dentro del Hoyo de 5.0
+El Circulo circunscrito de radio 11.55 cm no cabe dentro del Hoyo de 5.0
