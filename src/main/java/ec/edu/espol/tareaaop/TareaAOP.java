@@ -4,6 +4,11 @@
 
 package ec.edu.espol.tareaaop;
 
+import adaptadores.PrismaAdaptador;
+import circular.Cilindro;
+import circular.HoyoCircular;
+import triangular.TrianguloEquilateroPrisma;
+
 /**
  *
  * @author USER
